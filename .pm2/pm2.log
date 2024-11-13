@@ -1,0 +1,165 @@
+2024-09-30T16:46:24: PM2 log: ===============================================================================
+2024-09-30T16:46:24: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2024-09-30T16:46:24: PM2 log: Time                 : Mon Sep 30 2024 16:46:24 GMT+0000 (Coordinated Universal Time)
+2024-09-30T16:46:24: PM2 log: PM2 version          : 5.4.2
+2024-09-30T16:46:24: PM2 log: Node.js version      : 12.22.9
+2024-09-30T16:46:24: PM2 log: Current arch         : x64
+2024-09-30T16:46:24: PM2 log: PM2 home             : /root/.pm2
+2024-09-30T16:46:24: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2024-09-30T16:46:24: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2024-09-30T16:46:24: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2024-09-30T16:46:24: PM2 log: Application log path : /root/.pm2/logs
+2024-09-30T16:46:24: PM2 log: Worker Interval      : 30000
+2024-09-30T16:46:24: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2024-09-30T16:46:24: PM2 log: Concurrent actions   : 2
+2024-09-30T16:46:24: PM2 log: SIGTERM timeout      : 1600
+2024-09-30T16:46:24: PM2 log: ===============================================================================
+2024-09-30T16:46:51: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:51: PM2 log: App [npm:0] online
+2024-09-30T16:46:52: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:52: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:52: PM2 log: App [npm:0] online
+2024-09-30T16:46:52: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:52: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:52: PM2 log: App [npm:0] online
+2024-09-30T16:46:53: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:53: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:53: PM2 log: App [npm:0] online
+2024-09-30T16:46:53: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:53: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:53: PM2 log: App [npm:0] online
+2024-09-30T16:46:54: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:54: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:54: PM2 log: App [npm:0] online
+2024-09-30T16:46:54: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:54: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:54: PM2 log: App [npm:0] online
+2024-09-30T16:46:55: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:55: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:55: PM2 log: App [npm:0] online
+2024-09-30T16:46:56: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:56: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:56: PM2 log: App [npm:0] online
+2024-09-30T16:46:56: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:56: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:56: PM2 log: App [npm:0] online
+2024-09-30T16:46:57: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:57: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:57: PM2 log: App [npm:0] online
+2024-09-30T16:46:57: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:57: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:57: PM2 log: App [npm:0] online
+2024-09-30T16:46:58: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:58: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:58: PM2 log: App [npm:0] online
+2024-09-30T16:46:58: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:58: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:58: PM2 log: App [npm:0] online
+2024-09-30T16:46:59: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:59: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:59: PM2 log: App [npm:0] online
+2024-09-30T16:46:59: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:46:59: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:46:59: PM2 log: App [npm:0] online
+2024-09-30T16:47:00: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:47:00: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2024-09-30T16:52:47: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:47: PM2 log: App [npm:0] online
+2024-09-30T16:52:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:48: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:48: PM2 log: App [npm:0] online
+2024-09-30T16:52:48: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:48: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:48: PM2 log: App [npm:0] online
+2024-09-30T16:52:49: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:49: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:49: PM2 log: App [npm:0] online
+2024-09-30T16:52:49: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:49: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:49: PM2 log: App [npm:0] online
+2024-09-30T16:52:50: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:50: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:50: PM2 log: App [npm:0] online
+2024-09-30T16:52:51: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:51: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:51: PM2 log: App [npm:0] online
+2024-09-30T16:52:51: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:51: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:51: PM2 log: App [npm:0] online
+2024-09-30T16:52:52: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:52: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:52: PM2 log: App [npm:0] online
+2024-09-30T16:52:52: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:52: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:52: PM2 log: App [npm:0] online
+2024-09-30T16:52:53: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:53: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:53: PM2 log: App [npm:0] online
+2024-09-30T16:52:53: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:53: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:53: PM2 log: App [npm:0] online
+2024-09-30T16:52:54: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:54: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:54: PM2 log: App [npm:0] online
+2024-09-30T16:52:54: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:54: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:54: PM2 log: App [npm:0] online
+2024-09-30T16:52:55: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:55: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:55: PM2 log: App [npm:0] online
+2024-09-30T16:52:55: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:55: PM2 log: App [npm:0] starting in -fork mode-
+2024-09-30T16:52:55: PM2 log: App [npm:0] online
+2024-09-30T16:52:56: PM2 log: App [npm:0] exited with code [1] via signal [SIGINT]
+2024-09-30T16:52:56: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
+2024-09-30T16:53:14: PM2 log: Stopping app:npm id:0
+2024-09-30T16:53:14: PM2 error: app=npm id=0 does not have a pid
+2024-09-30T17:19:43: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:43: PM2 log: App [next-app:0] online
+2024-09-30T17:19:44: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:44: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:44: PM2 log: App [next-app:0] online
+2024-09-30T17:19:44: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:44: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:44: PM2 log: App [next-app:0] online
+2024-09-30T17:19:45: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:45: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:45: PM2 log: App [next-app:0] online
+2024-09-30T17:19:46: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:46: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:46: PM2 log: App [next-app:0] online
+2024-09-30T17:19:46: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:46: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:46: PM2 log: App [next-app:0] online
+2024-09-30T17:19:47: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:47: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:47: PM2 log: App [next-app:0] online
+2024-09-30T17:19:48: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:48: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:48: PM2 log: App [next-app:0] online
+2024-09-30T17:19:48: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:48: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:48: PM2 log: App [next-app:0] online
+2024-09-30T17:19:49: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:49: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:49: PM2 log: App [next-app:0] online
+2024-09-30T17:19:49: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:49: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:49: PM2 log: App [next-app:0] online
+2024-09-30T17:19:50: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:50: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:50: PM2 log: App [next-app:0] online
+2024-09-30T17:19:51: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:51: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:51: PM2 log: App [next-app:0] online
+2024-09-30T17:19:51: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:51: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:51: PM2 log: App [next-app:0] online
+2024-09-30T17:19:52: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:52: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:52: PM2 log: App [next-app:0] online
+2024-09-30T17:19:53: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:53: PM2 log: App [next-app:0] starting in -fork mode-
+2024-09-30T17:19:53: PM2 log: App [next-app:0] online
+2024-09-30T17:19:53: PM2 log: App [next-app:0] exited with code [1] via signal [SIGINT]
+2024-09-30T17:19:53: PM2 log: Script /usr/bin/npm had too many unstable restarts (16). Stopped. "errored"
